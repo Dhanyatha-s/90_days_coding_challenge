@@ -1,0 +1,51 @@
+id,name,age,email,city,salary,join_date
+1,Alice,25,alice@example.com,Bangalore,45000.0,2021-05-10
+2,Bob,thirty,bob email@com,Mumbai,52000.0,2020/13/05
+3,Carla,,carla@gmail,Delhi,,2020-07-20
+4,David,40abc,david@example.com,Banglore,60000.0,18-05-2019
+5,Eva,29,eva_stone@example.com,Chennai,55000.0,2021-09-30
+6,Frank,44,frank@@mail.com,Hyderabad,70000.0,2021/05/11
+7,Gina,,gina@example.com,Bengaluru,62000.0,2020-11-20
+8,Henry,33,henry@exa mple.com,Pune,58000.0,2021-08-25
+9,Isha,27,Isha@example.com,Bangalore,,2020/07/19
+10,John,twenty,john@@example.com,Delhi,50000.0,2019-05-32
+11,Kavya,24,kavya@example.com,Mumbai,48000.0,2021-13-05
+12,Liam,,liam@example.com,Chennai,54000.0,2020/02/20
+13,Maya,31,mayagmail.com,Bangalore,61000.0,2019-05-10
+14,Nina,28,nina@@gmail.com,Hyderabad,57000.0,2022/07/12
+15,Omar,45,Omar@example.com,Pune,68000.0,2020-09-20
+16,Pranav,abc,pranav@example.com,Pune,62000.0,2021/05/11
+17,Queena,26,queena@example,Bangaluru,59000.0,2021-08-11
+18,Rahul,30,rahul example.com,Chennai,61000.0,2019-19-05
+19,Sara,,sara@mail.com,Hyderabad,55000.0,2020-06-31
+20,Tom,35,tom@@example.com,Bangalore,,2021/07/20
+21,Usha,22,usha@example.com,Mumbai,48000.0,2021-05-10
+22,Varun,48,varun@company,Delhi,60000.0,2020/02/30
+23,Will,39,will@@gmail.com,Pune,53000.0,2019-07-10
+24,Xena,27,xena@examplecom,Chennai,,2020-05-10
+25,Yash,33,yash @gmail.com,Bengaluru,56000.0,2021/11/12
+26,Zara,,zara@mail.com,Hyderabad,62000.0,2020-06-20
+27,Anil,29,anil@@example.com,Bangalore,51000.0,2021-08-21
+28,Bhanu,26,bhanu.com,Mumbai,48000.0,2021/12/10
+29,Charan,44,charan@example,Pune,70000.0,2019-13-05
+30,Diya,23,diya@@gmail.com,Chennai,45000.0,2020/05/10
+31,Elon,36,elonmail.com,Hyderabad,90000.0,2021-07-11
+32,Farah,31,farah@ company.com,Bangalore,55000.0,2020/11/10
+33,Gopi,28,gopi@examplecom,Mumbai,,2019-05-10
+34,Harsh,27,harsh@@gmail.com,Delhi,53000.0,2021/02/20
+35,Iram,,iramexample.com,Pune,58000.0,2020-07-15
+36,Jai,29,jai @gmail.com,Banglore,56000.0,2020/08/10
+37,Kiran,32,kiran@@mail.com,Chennai,61000.0,2021-05-31
+38,Leela,30,leela@gmail,Bangalore,54000.0,2021/06/20
+39,Manoj,abc,manoj@mail.com,Hyderabad,50000.0,2020-10-10
+40,Niharika,25,niharika@@gmail.com,Pune,48000.0,2019/05/10
+41,Oviya,29,oviya@company.com,Mumbai,68000.0,2020-13-10
+42,Prem,31,prem @mail.com,Delhi,61000.0,2021/05/12
+43,Riya,34,riyagmail.com,Pune,62000.0,2019-08-10
+44,Shaan,40,shaan@@gmail.com,Hyderabad,,2021/02/20
+45,Tina,22,tina@example.com,Chennai,46000.0,2020-07-17
+46,Uma,27,uma@@example.com,Bangalore,57000.0,2021/06/18
+47,Vinay,33,vinaymail.com,Delhi,58000.0,2019-10-10
+48,Wasim,28,wasim@@gmail.com,Pune,55000.0,2020/03/19
+49,Xavier,26,xavier @mail.com,Bengaluru,54000.0,2021-07-30
+50,Yamini,,yamini@mail.com,Bangalore,50000.0,2020-05-12
